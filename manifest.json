@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Digger,Classic",
+  "description": "Classic Game",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Digger,Classic",
+  "name": "Digger:Classic",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Digger,Classic",
+  "short_name": "Digger:Classic",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Digger,Classic",
+      "name": "Digger:Classic",
       "url": "",
-      "description": ""
+      "description": "Classic Game"
     }
   ]
 }
